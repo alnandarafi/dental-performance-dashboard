@@ -56,7 +56,7 @@ This project analyzes sales transaction data to monitor revenue trends, customer
 
 ## Dashboard Preview
 
-![dental performance dashboard](Dashboard Overview.png)
+![dental-performance-dashboard](Dashboard Overview.png)
 
 ## Key Insights
 
