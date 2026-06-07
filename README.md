@@ -58,7 +58,7 @@ This project analyzes 3,768 sales transactions from 98 customers across 19 produ
 
 ## Dashboard Preview
 
-![dental-performance-dashboard](Dashboard Overview.png)
+![dental-performance-dashboard](Dashboard-Overview.png)
 
 ## Key Insights
 
