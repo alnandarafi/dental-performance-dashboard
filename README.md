@@ -1,93 +1,82 @@
-# Dental Sales Performance Dashboard
+# Dental Sales Performance Dashboard (Microsoft Excel)
 
-## Overview
+Interactive sales dashboard built using Microsoft Excel to analyze sales performance, customer behavior, and operational reporting metrics.
 
-The Dental Sales Performance Dashboard is an interactive Microsoft Excel dashboard project designed to analyze and monitor sales performance, customer activity, and operational business metrics in the dental product industry.
+## Project Overview
 
-This project was created to support data-driven decision making by transforming raw sales data into meaningful business insights through data visualization and KPI monitoring.
+This project analyzes sales transaction data to monitor revenue trends, customer activity, and operational performance. The dashboard provides business insights through interactive visualizations and KPI monitoring to support data-driven decision making.
 
----
+## Business Objectives
 
-## Objectives
+- Monitor sales performance and operational activities.
+- Analyze customer purchasing trends and sales reporting.
+- Track revenue performance and order activity.
+- Improve reporting efficiency through dashboard visualization.
+- Support operational monitoring and business decision making.
 
-* Monitor overall sales performance
-* Analyze customer purchasing trends
-* Track key business metrics (KPIs)
-* Improve reporting efficiency using interactive dashboards
-* Support operational and sales decision making
+## Dataset Summary
 
----
-
-## Tools & Technologies
-
-* Microsoft Excel
-* Pivot Table
-* Pivot Chart
-* XLOOKUP
-* Slicers
-* Data Cleaning & Validation
-
----
-
-## Dataset Information
-
-The dataset contains:
-
-* 3,768 transaction records
-* Customer purchase activity
-* Product category data
-* Sales representative performance
-* Revenue and operational metrics
-
----
-
-## Key Features
-
-* Interactive sales dashboard
-* KPI monitoring
-* Revenue analysis
-* Customer activity tracking
-* Product performance analysis
-* Monthly sales trend visualization
-* Dynamic filtering using slicers
-
----
+| Dataset | Records |
+|--------|--------:|
+| Sales Transactions | 3,768 |
+| Customers | 98 |
+| Products | 19 |
 
 ## Key Performance Indicators (KPIs)
 
-* Total Revenue
-* Total Orders
-* Average Order Value
-* Sales Trends
-* Customer Activity
-* Product Performance
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Customer Activity
+- Sales Trends
 
----
+## Dashboard Features
 
-## Dashboard Insights
+- Sales performance analysis
+- Revenue monitoring
+- Customer activity tracking
+- Monthly sales trends
+- Product performance analysis
+- Interactive slicers and filters
+- KPI monitoring dashboard
 
-This dashboard helps identify:
+## Tools Used
 
-* Best-selling products
-* Sales trends over time
-* Customer purchasing behavior
-* Operational performance
-* Business growth opportunities
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- XLOOKUP
+- Slicers
+- Data Cleaning
 
----
+## Files Included
 
-## Project Outcomes
+- dental-sales-dashboard.xlsx — Excel workbook containing the dataset and interactive dashboard.
+- dashboard-preview.png — Screenshot of the dashboard visualization.
 
-* Improved data readability through visualization
-* Simplified operational reporting process
-* Enhanced monitoring of sales and customer activity
-* Supported business reporting with interactive dashboards
+## Dashboard Preview
 
----
+![Dental Sales Dashboard](dashboard preview.jpeg)
+
+## Key Insights
+
+- Identified top-performing products contributing the highest sales.
+- Analyzed customer purchasing activity and sales trends.
+- Evaluated operational performance through KPI monitoring.
+- Improved reporting readability using dashboard visualization.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Dashboard Development
+- KPI Reporting
+- Sales Analysis
+- Operational Reporting
+- Data Visualization
+- Business Insight Generation
 
 ## Author
 
 Alnanda Muhammad Rafi
 
-LinkedIn:
-https://linkedin.com/in/alnandarafi
+- LinkedIn: https://linkedin.com/in/alnandarafi
